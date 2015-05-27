@@ -1,6 +1,6 @@
 {
   "name": "validate.io-int32array",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Validates if a value is an Int32Array.",
   "author": {
     "name": "Athan Reines",
